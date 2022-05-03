@@ -38,7 +38,7 @@ React로 만들어진 Front End가 정해져있는 상황에서 spring boot를 �
     ```
 
     ```
-    successily create product
+    successfully create product
     ```
 - orders API
     ```
@@ -67,7 +67,7 @@ React로 만들어진 Front End가 정해져있는 상황에서 spring boot를 �
     ```
   
     ```
-    successily create order
+    successfully create order
     ```
 
 ## 웹페이지 설명
